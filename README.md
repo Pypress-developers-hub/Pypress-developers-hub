@@ -18,7 +18,7 @@ Feel free to connect with Us on various platforms:
 
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=61556926304356)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram)](https://www.instagram.com/pypressdevelopershub/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pypress-developers-hub/)
 [![TikTok](https://img.shields.io/badge/TikTok-Follow-red?style=flat-square&logo=tiktok)](https://www.tiktok.com/@pypress.developer.hub)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Pypress-developers-hub)
 
